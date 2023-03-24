@@ -10,4 +10,4 @@
 4. 작업한 브랜치 푸시하기
 5. 풀 리퀘스트 보내기
 
-DEMO(ruddnjs3769.github.io/fastcampus_team6_study/README.md)
+[demo](ruddnjs3769.github.io/fastcampus_team6_study/README.md).
